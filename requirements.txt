@@ -1,5 +1,5 @@
 numpy
 pandas
 seaborne
-sci-kit-learn
+scikit-learn
 optuna
